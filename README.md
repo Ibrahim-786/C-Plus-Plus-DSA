@@ -1,2 +1,2 @@
-# c_plus_plus_intermediate_level
+# c_plus_plus_intermediate
 c++ for interview purpose
