@@ -1,0 +1,35 @@
+problem :
+
+find the max elements in an given array that would sum up to a given target
+
+
+input
+
+1) first line specifies the number of element in the array plus the target
+2) second line specifies the target
+3) subsequent lines contains the element of array 
+
+
+
+output
+
+interger specifying the maximum of elements that sum up to a given target
+return 0 if there is no match
+
+
+eg: 
+i/p
+5
+10
+2
+3
+5
+5
+
+o/p
+3
+
+2,3,5 is 10 (total element:3) 
+5,5   is 10 (total element:2)
+so max is 3, so o/p is 3
+
